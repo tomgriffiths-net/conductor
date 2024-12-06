@@ -1,0 +1,8 @@
+{
+    "dependencies": [],
+    "id_name": "conductor",
+    "version": 5,
+    "author": "tom",
+    "name": "Conducts jobs to other processes",
+    "description": ""
+}
